@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     if (backButton) {
         backButton.addEventListener('click', () => {
-            window.location.href = '../Second_Page/second.html';
+            window.location.href = '../second.html';
         });
     }
 });
