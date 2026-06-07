@@ -4,13 +4,13 @@ document.addEventListener('DOMContentLoaded', () => {
 
     if (backButton) {
         backButton.addEventListener('click', () => {
-            window.location.href = '../Starting_Page/start.html';
+            window.location.href = '../start.html';
         });
     }
 
     if (nextButton) {
         nextButton.addEventListener('click', () => {
-            window.location.href = '../Third_Page/third.html';
+            window.location.href = '../third.html';
         });
     }
 });
