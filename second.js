@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     if (backButton) {
         backButton.addEventListener('click', () => {
-            window.location.href = '../start.html';
+            window.location.href = '../index.html';
         });
     }
 
